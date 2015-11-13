@@ -1,4 +1,5 @@
 # HelloPhoenix
+A run through the [Phoenix/Elixir quickstart](http://www.phoenixframework.org/docs/up-and-running)
 
 To start your Phoenix app:
 
